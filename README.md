@@ -26,6 +26,7 @@ host.json, local.settings.json if not created then create similar to the one in 
 
 local.settings.json - is for local development
 host.json -- function app configurations
+in the local.settings.json populate your respective storage account value.
 
 
 3) To run in local we can run via maven commands
