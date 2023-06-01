@@ -49,3 +49,9 @@ Beforing running one particular function, better to comment entirely the functio
 9) Find your function app and click on apply and ok and wait for the deployment to be comepleted.
 
 10) If deployment is success, we can see the 2 functions created in our azure function app in portal with 2 diffent HTTP trigger functions
+
+
+
+Sample Java Trigger, Binding etc samples
+
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-trigger?pivots=programming-language-java&tabs=in-process%2Cconfluent
